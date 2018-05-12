@@ -1,0 +1,35 @@
+_repo: The-Defeat-of-Youth-and-Other-Poems_24364
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Aldous
+    alias: Huxley, Aldous Leonard
+    birthdate: 1894
+    deathdate: 1963
+    gutenberg_agent_id: '780'
+    url: http://www.gutenberg.org/2009/agents/780
+    wikipedia: http://en.wikipedia.org/wiki/Aldous_Huxley
+description: Go to top; The Defeat of Youth; Song of Poplars; The Reef; Winter Dream;
+  The Flowers; The Elms; Out of the Window; Inspiration; Summer Stillness; Anniversaries;
+  Italy; The Alien; A Little Memory; Waking; By the Fire; Valedictory; Love Song;
+  Private Property; Revelation; Minoan Porcelain; The Decameron; In Uncertainty to
+  a Lady; Crapulous Impression; The Life Theoretic; Complaint of a Poet Manqué; Social
+  Amenities; Topiary; On the Bus; Points and Lines; Panic; Return from Business; Stanzas;
+  Poem; Scenes of the Mind; L'Après-Midi D'un Faune; The Louse-Hunters; Aldous Huxley
+  Biography.
+gutenberg_issued: '2008-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: The Defeat of Youth, and Other Poems
+url: http://www.gutenberg.org/ebooks/24364
